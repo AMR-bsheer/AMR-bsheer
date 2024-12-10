@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Amr Khaled</h1>
 <h3 align="center">A passionate frontend developer from Egypt.</h3>
-# 💫 About Me:
+ 💫 About Me:
 <br>🎓 I'm CS student at MUI .<br>🌱 I’m currently learning JS , Python .<br>
 👨‍💻 All of my projects are available at [portfolio](https://amr-bsheer.github.io/portfolio-website/)<br>
 

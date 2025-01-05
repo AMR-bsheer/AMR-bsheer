@@ -4,7 +4,7 @@
 <li>💫 About Me:</li>
 <li>🎓 I'm CS student at MUI.</li>
 <li>🌱 I’m currently learning JS , Python.</li>
-<li>👨‍💻 All of my projects are available at portfolio : (https://amr-bsheer.github.io/portfolio-website/)</li>
+
 
 ##
 
